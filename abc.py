@@ -1,2 +1,2 @@
 s='abc '
-s.strip()
+s.rstrip()
